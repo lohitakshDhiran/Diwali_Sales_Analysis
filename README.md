@@ -1,1 +1,2 @@
 # Diwali_Sales_Analysis
+The Diwali sales project utilized data cleaning and manipulation techniques, followed by exploratory data analysis using Pandas, Matplotlib, and Seaborn libraries. Targeting potential customers based on state, occupation, gender, and age groups improved sales. Identifying top-selling product categories and products enabled efficient inventory planning to meet demands, enhancing the overall customer experience.
